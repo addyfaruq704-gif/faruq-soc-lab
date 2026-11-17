@@ -1,0 +1,5 @@
+192.168.1.10 - - [17/Nov/2026] "GET /login" 200
+45.155.204.10 - - [17/Nov/2026] "POST /login admin:1234" 401 FAILED
+45.155.204.10 - - [17/Nov/2026] "POST /login admin:password" 401 FAILED
+45.155.204.10 - - [17/Nov/2026] "POST /login admin:admin" 200 SUCCESS - ALERT
+192.168.1.50 - SQLI ATTACK - OR 1=1 - SQLI SUCCESS
