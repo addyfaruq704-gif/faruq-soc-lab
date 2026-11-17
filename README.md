@@ -2,7 +2,7 @@
 
 Built by Faruq Addy | Eldoret, Kenya | Nov 2026
 
-## Detects 5 Attacks
+## Detects 6 Attacks
 - Brute-Force (45.155.204.10)
 - Phishing (micros0ft spoof + bit.ly)
 - SQLi (OR 1=1)

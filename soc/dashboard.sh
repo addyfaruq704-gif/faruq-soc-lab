@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "=============================="
-echo "  FARUQ SOC LAB v6 - DASHBOARD"
+echo "  FARUQ SOC LAB v7 - DASHBOARD"
 echo "=============================="
 echo "Date: $(date)"
 echo ""
