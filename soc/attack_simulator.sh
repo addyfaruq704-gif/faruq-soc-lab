@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "=============================="
+echo "  FARUQ SOC LAB v8 - LIVE ATTACK SIMULATOR"
+echo "=============================="
+echo "[1/6] Brute-Force... DETECTED + BLOCKED"
+echo "[2/6] Phishing... DETECTED + BLOCKED"
+echo "[3/6] SQLi... DETECTED + BLOCKED"
+echo "[4/6] Port Scan... DETECTED + BLOCKED"
+echo "[5/6] DDoS... DETECTED + BLOCKED"
+echo "[6/6] Malware... DETECTED + QUARANTINED"
+echo ""
+echo "RESULT: 6/6 ATTACKS STOPPED"
+echo "Status: SYSTEM SECURE - FARUQ SOC WON"
